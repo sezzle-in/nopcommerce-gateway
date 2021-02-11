@@ -1,0 +1,14 @@
+/Users/surendhar/Projects/nopCommerce/nopCommerce_4.20/src/Presentation/Nop.Web/Plugins/Payments.Sezzle/Views/_ViewImports.cshtml
+/Users/surendhar/Projects/nopCommerce/nopCommerce_4.20/src/Presentation/Nop.Web/Plugins/Payments.Sezzle/Views/Configure.cshtml
+/Users/surendhar/Projects/nopCommerce/nopCommerce_4.20/src/Presentation/Nop.Web/Plugins/Payments.Sezzle/Views/PaymentInfo.cshtml
+/Users/surendhar/Projects/nopCommerce/nopCommerce_4.20/src/Presentation/Nop.Web/Plugins/Payments.Sezzle/plugin.json
+/Users/surendhar/Projects/nopCommerce/nopCommerce_4.20/src/Presentation/Nop.Web/Plugins/Payments.Sezzle/logo.jpg
+/Users/surendhar/Projects/nopCommerce/nopCommerce_4.20/src/Presentation/Nop.Web/Plugins/Payments.Sezzle/Nop.Plugin.Payments.Sezzle.deps.json
+/Users/surendhar/Projects/nopCommerce/nopCommerce_4.20/src/Presentation/Nop.Web/Plugins/Payments.Sezzle/Nop.Plugin.Payments.Sezzle.dll
+/Users/surendhar/Projects/nopCommerce/nopCommerce_4.20/src/Presentation/Nop.Web/Plugins/Payments.Sezzle/Nop.Plugin.Payments.Sezzle.pdb
+/Users/surendhar/Projects/nopCommerce/nopCommerce_4.20/src/Plugins/Nop.Plugin.Payments.Sezzle/obj/Debug/netcoreapp2.2/Nop.Plugin.Payments.Sezzle.AssemblyInfoInputs.cache
+/Users/surendhar/Projects/nopCommerce/nopCommerce_4.20/src/Plugins/Nop.Plugin.Payments.Sezzle/obj/Debug/netcoreapp2.2/Nop.Plugin.Payments.Sezzle.AssemblyInfo.cs
+/Users/surendhar/Projects/nopCommerce/nopCommerce_4.20/src/Plugins/Nop.Plugin.Payments.Sezzle/obj/Debug/netcoreapp2.2/Nop.Plugin.Payments.Sezzle.csproj.CoreCompileInputs.cache
+/Users/surendhar/Projects/nopCommerce/nopCommerce_4.20/src/Plugins/Nop.Plugin.Payments.Sezzle/obj/Debug/netcoreapp2.2/Nop.Plugin.Payments.Sezzle.csproj.CopyComplete
+/Users/surendhar/Projects/nopCommerce/nopCommerce_4.20/src/Plugins/Nop.Plugin.Payments.Sezzle/obj/Debug/netcoreapp2.2/Nop.Plugin.Payments.Sezzle.dll
+/Users/surendhar/Projects/nopCommerce/nopCommerce_4.20/src/Plugins/Nop.Plugin.Payments.Sezzle/obj/Debug/netcoreapp2.2/Nop.Plugin.Payments.Sezzle.pdb

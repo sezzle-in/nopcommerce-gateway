@@ -1,0 +1,16 @@
+[
+  {
+    "Type": "Plugin",
+    "SupportedVersion": "4.20",
+    "DirectoryPath": "Sezzle/nopCommerce-4.20/Payments.Sezzle/",
+    "SystemName": "Payments.Sezzle",
+    "SourceDirectoryPath": "Sezzle/nopCommerce-4.20/Nop.Plugin.Payments.Sezzle/"
+  },
+  {
+    "Type": "Plugin",
+    "SupportedVersion": "4.30",
+    "DirectoryPath": "Sezzle/nopCommerce-4.30/Payments.Sezzle/",
+    "SystemName": "Payments.Sezzle",
+    "SourceDirectoryPath": "Sezzle/nopCommerce-4.30/Nop.Plugin.Payments.Sezzle/"
+  }
+]

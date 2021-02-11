@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "Sezzle",
+  "SystemName": "Payments.Sezzle",
+  "Version": "1.2",
+  "SupportedVersions": [ "4.30" ],
+  "Author": "Sezzle Team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.Sezzle.dll",
+  "Description": "This plugin allows paying with Sezzle"
+}
