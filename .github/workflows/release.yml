@@ -1,0 +1,35 @@
+name: Generate release zip
+on:
+  push:
+    tags:
+      - 'v*'
+jobs:
+  tag:
+    name: New release
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      id: checkout
+      uses: actions/checkout@v2
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ github.ref }}
+        release_name: ${{ github.ref }}
+        draft: false
+        prerelease: false
+    - name: Create release archive
+      run: cat release.txt | zip -r@ "sezzle-nopcommerce-payment.zip"
+    - name: Upload release asset
+      id: upload_release
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ${{ github.workspace }}/sezzle-woocommerce-payment.zip
+        asset_name: sezzle-woocommerce-payment.zip
+        asset_content_type: application/zip
